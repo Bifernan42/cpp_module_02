@@ -1,7 +1,6 @@
 # Third C++ Assignment  
 
-## Concepts:  
-[Orthodox Canonical Form, Fixed-Point Arithmetic, Operator Overloading, Binary Space Partitioning]  
+## Concepts:  [Orthodox Canonical Form, Fixed-Point Arithmetic, Operator Overloading, Binary Space Partitioning]  
 
 In this third assignment, we had to:  
 - Implement a **Fixed-Point Number** class in **Orthodox Canonical Form**  
